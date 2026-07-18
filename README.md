@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer — RAG & LLM Sistemleri</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=GPT+%2F+BERT+entegrasyonlar%C4%B1;RAG+mimarileri+%26+otonom+AI+ajanlar%C4%B1;FastAPI+%2B+Docker+ile+production-ready+servisler" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Veri+analizi+ve+istatistik;Makine+%C3%B6%C4%9Frenmesi+ve+derin+%C3%B6%C4%9Frenme;NLP+ve+generative+AI;RAG+ve+AI+ajanlar%C4%B1;Veri+m%C3%BChendisli%C4%9Fi+ve+deployment" alt="Typing SVG" />
 </p>
 
 <p align="center">
